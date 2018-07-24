@@ -1,5 +1,5 @@
 ,Artists,Name,Rank,Date,Genre,Writing Credits,Lyrics
-0,Ed Sheeran,Shape Of You,1,"January 6, 2017"," Atlantic Records , Tropical House , Dancehall , Pop  ,  UK ","Tameka ""Tiny"" Harris, Kandi, Kevin ""She'kspere"" Briggs & 3 more","Shape of You Lyrics
+0,Ed Sheeran,Shape Of You,1,6-Jan-17," Atlantic Records , Tropical House , Dancehall , Pop  ,  UK ","Tameka ""Tiny"" Harris, Kandi, Kevin ""She'kspere"" Briggs, Ed Sheeran, Johnny McDaid & Steve Mac","Shape of You Lyrics
 
 
 
@@ -114,7 +114,7 @@ I'm in love with the shape of you
 
 
 "
-1,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito,2,"April 17, 2017"," Universal Republic Records , Translation , Universal ,  Canada , Def Jam , Republic Records , Reggaeton , Latin Music , En Español , Latin Pop , Remix , Pop  ","Poo Bear, Marty James, Justin Bieber & 3 more","Despacito (Remix) Lyrics
+1,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito,2,17-Apr-17," Universal Republic Records , Translation , Universal ,  Canada , Def Jam , Republic Records , Reggaeton , Latin Music , En Español , Latin Pop , Remix , Pop  ","Poo Bear, Marty James, Justin Bieber, Luis Fonsi, Erika Ender & Daddy Yankee","Despacito (Remix) Lyrics
 
 
 
@@ -225,7 +225,7 @@ Despacito
 
 
 "
-2,Bruno Mars,That's What I Like,3,"January 30, 2016"," Funk , R&B  , Pop  ","Ray Charles McCullough II, Ray Romulus, Jeremy Reeves & 5 more","That's What I Like Lyrics
+2,Bruno Mars,That's What I Like,3,30-Jan-16," Funk , R&B  , Pop  ","Ray Charles McCullough II, Ray Romulus, Jeremy Reeves, Jonathan Yip, James Fauntleroy, Brody Brown, Philip Lawrence & Bruno Mars","That's What I Like Lyrics
 
 
 
@@ -318,7 +318,7 @@ Lucky for you, that's what I like, that's what I like
 
 
 "
-3,Kendrick Lamar,Humble.,4,"March 30, 2017"," Trap , Aftermath Entertainment , Interscope Records , West Coast , Compton , TDE , Rap  ","Asheton Hogan, Mike WiLL Made-It & Kendrick Lamar","HUMBLE. Lyrics
+3,Kendrick Lamar,Humble.,4,30-Mar-17," Trap , Aftermath Entertainment , Interscope Records , West Coast , Compton , TDE , Rap  ","Asheton Hogan, Mike WiLL Made-It & Kendrick Lamar","HUMBLE. Lyrics
 
 
 
@@ -403,7 +403,7 @@ Sit down (hol' up, hol' up, hol' up, hol' up)
 
 
 "
-4,"The Chainsmokers, Coldplay",Something Just Like This,5,"February 22, 2017"," Adult Alternative , Alternative Rock , Electronic Rock , Columbia Records ,  UK , East Coast , New York , Electro-Pop , Electronic , Dance , Pop  ","Will Champion, Guy Berryman, Jonny Buckland & 2 more","Something Just Like This Lyrics
+4,"The Chainsmokers, Coldplay",Something Just Like This,5,22-Feb-17," Adult Alternative , Alternative Rock , Electronic Rock , Columbia Records ,  UK , East Coast , New York , Electro-Pop , Electronic , Dance , Pop  ","Will Champion, Guy Berryman, Jonny Buckland, Andrew Taggart & Chris Martina","Something Just Like This Lyrics
 
 
 
@@ -493,7 +493,7 @@ Oh, I want something just like this
 
 
 "
-5,"Migos, Lil Uzi Vert",Bad And Boujee,6,"August 27, 2016"," Quality Control Music , Atlantic Records , 300 Entertainment , Memes , Trap , Atlanta , Rap  ","Metro Boomin, Lil Uzi Vert, Takeoff & 3 more","Bad and Boujee Lyrics
+5,"Migos, Lil Uzi Vert",Bad And Boujee,6,27-Aug-16," Quality Control Music , Atlantic Records , 300 Entertainment , Memes , Trap , Atlanta , Rap  ","Metro Boomin, Lil Uzi Vert, Takeoff, Offset, Quavo & G Koop","Bad and Boujee Lyrics
 
 
 
@@ -669,7 +669,7 @@ We got 30's and 100 rounds too (glah)
 
 
 "
-6,"The Chainsmokers, Halsey",Closer,7,"July 29, 2016"," Columbia Records , Dance , Electronic , Pop  ","Alex Pall, Halsey, Shaun Frank & 2 more","Closer Lyrics
+6,"The Chainsmokers, Halsey",Closer,7,29-Jul-16," Columbia Records , Dance , Electronic , Pop  ","Alex Pall, Halsey, Shaun Frank, Frederic Kennett & Andrew Taggart","Closer Lyrics
 
 
 
@@ -757,7 +757,7 @@ We ain't ever getting older
 
 
 "
-7,Sam Hunt,Body Like A Back Road,8,"February 1, 2017"," Pop  , Country  ","Sam Hunt, Zach Crowell, Josh Osborne & 1 more","Body Like a Back Road Lyrics
+7,Sam Hunt,Body Like A Back Road,8,1-Feb-17," Pop  , Country  ","Sam Hunt, Zach Crowell, Josh Osborne & Shane McAnally","Body Like a Back Road Lyrics
 
 
 
@@ -812,7 +812,7 @@ I know every curve like the back of my hand
 
 
 "
-8,Imagine Dragons,Believer,9,"February 1, 2017"," Adult Alternative , Indie Rock , Alternative Pop , Alternative Rock , Pop-Rock , Alternative , Electro-Pop , Rock  , Pop  ","Robin Fredriksson, Mattman & Robin, Wayne Sermon & 6 more","Believer Lyrics
+8,Imagine Dragons,Believer,9,1-Feb-17," Adult Alternative , Indie Rock , Alternative Pop , Alternative Rock , Pop-Rock , Alternative , Electro-Pop , Rock  , Pop  ","Robin Fredriksson, Mattman & Robin, Wayne Sermon, Dan Reynolds, Daniel Platzman, Ben McKee, Imagine Dragons, Justin Tranter & Mattias Larsson","Believer Lyrics
 
 
 
@@ -899,7 +899,7 @@ You made me a, you made me a believer, believer
 
 
 "
-9,"Post Malone, Quavo",Congratulations,10,"November 4, 2016"," Quality Control Music , Republic Records , Trap , Atlanta , Rap  ","Post Malone, Carl Austin Rosen, Louis Bell & 3 more","Congratulations Lyrics
+9,"Post Malone, Quavo",Congratulations,10,4-Nov-16," Quality Control Music , Republic Records , Trap , Atlanta , Rap  ","Post Malone, Carl Austin Rosen, Louis Bell, Frank Dukes, Metro Boomin & Quavo","Congratulations Lyrics
 
 
 
@@ -992,7 +992,7 @@ Hey, hey, hey, hey
 
 
 "
-10,James Arthur,Say You Won't Let Go,11,"September 9, 2016","  UK , Pop  ","Neil Ormandy, Steve Solomon & James Arthur","Say You Won't Let Go Lyrics
+10,James Arthur,Say You Won't Let Go,11,9-Sep-16,"  UK , Pop  ","Neil Ormandy, Steve Solomon & James Arthur","Say You Won't Let Go Lyrics
 
 
 
@@ -1080,7 +1080,7 @@ Oh, just say you won't let go
 
 
 "
-11,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper, Lil Wayne",I'm The One,12,"April 28, 2017"," New Orleans , Chicago , Southern , Atlanta ,  Canada , Pop  , YMCMB , Quality Control Music , Summer , SAVEMONEY , Roc Nation , Young Money , Epic Records , Trip-Hop , R&B  , Rap  ","Poo Bear, Ray “August Grant” Jacobs, Bobby Brackins & 7 more","I'm the One Lyrics
+11,"DJ Khaled, Justin Bieber, Quavo, Chance The Rapper, Lil Wayne",I'm The One,12,28-Apr-17," New Orleans , Chicago , Southern , Atlanta ,  Canada , Pop  , YMCMB , Quality Control Music , Summer , SAVEMONEY , Roc Nation , Young Money , Epic Records , Trip-Hop , R&B  , Rap  ","Poo Bear, Ray “August Grant” Jacobs, Bobby Brackins, David Park, Nic Nac, Quavo, Lil Wayne, Chance The Rapper, Justin Bieber & DJ Khaled","I'm the One Lyrics
 
 
 
@@ -1247,7 +1247,7 @@ Yeah, I'm the one
 
 
 "
-12,Lil Uzi Vert,XO TOUR Llif3,13,"February 26, 2017"," Emo Rap , Memes , Warner Bros. , Emo , Atlantic Records , Alternative , PBR&B , R&B  , Psychedelic , XO , Trap , Rap  ","TM88, JW Lucas & Lil Uzi Vert","XO TOUR Llif3 Lyrics
+12,Lil Uzi Vert,XO TOUR Llif3,13,26-Feb-17," Emo Rap , Memes , Warner Bros. , Emo , Atlantic Records , Alternative , PBR&B , R&B  , Psychedelic , XO , Trap , Rap  ","TM88, JW Lucas & Lil Uzi Vert","XO TOUR Llif3 Lyrics
 
 
 
@@ -1340,7 +1340,7 @@ Push me to the edge
 
 
 "
-13,Future,Mask Off,14,"February 17, 2017"," Memes , Rap  , Epic Records , Atlanta , Trap ","Future, Frank Dukes, Charlton ""Chip"" Williams & 2 more","Mask Off Lyrics
+13,Future,Mask Off,14,17-Feb-17," Memes , Rap  , Epic Records , Atlanta , Trap ","Future, Frank Dukes, Charlton ""Chip"" Williams, Tommy Butler & Metro Boomin","Mask Off Lyrics
 
 
 
@@ -1424,7 +1424,7 @@ Gas gone, never nod off
 
 
 "
-14,"French Montana, Swae Lee",Unforgettable,15,"April 7, 2017"," Bad Boy , Epic Records , Dancehall , Afrobeat , Rap  ","Jagvir Aujla, McCulloch Reid Sutphin, The Weeknd & 4 more","Unforgettable Lyrics
+14,"French Montana, Swae Lee",Unforgettable,15,7-Apr-17," Bad Boy , Epic Records , Dancehall , Afrobeat , Rap  ","Jagvir Aujla, McCulloch Reid Sutphin, The Weeknd, Jeremih, CP DUBB, French Montana & Swae Lee","Unforgettable Lyrics
 
 
 
@@ -1522,7 +1522,7 @@ Tryna do what lovers do
 
 
 "
-15,Bruno Mars,24K Magic,16,"October 7, 2016"," Funk-Pop , Funk , Pop  ","Philip Lawrence, Brody Brown & Bruno Mars","24K Magic Lyrics
+15,Bruno Mars,24K Magic,16,7-Oct-16," Funk-Pop , Funk , Pop  ","Philip Lawrence, Brody Brown & Bruno Mars","24K Magic Lyrics
 
 
 
@@ -1638,7 +1638,7 @@ Uh, look out
 
 
 "
-16,"Zedd, Alessia Cara",Stay,17,"February 23, 2017"," Electronic , Dance , Pop  ","Zedd, Linus Wiklund, Alessia Cara & 3 more","Stay Lyrics
+16,"Zedd, Alessia Cara",Stay,17,23-Feb-17," Electronic , Dance , Pop  ","Zedd, Linus Wiklund, Alessia Cara, Anders Frøen, Sarah Aarons & Noonie Bao","Stay Lyrics
 
 
 
@@ -1711,7 +1711,7 @@ All you have to do is stay
 
 
 "
-17,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts,18,"June 16, 2017"," Cloud , Roc Nation , Soul , Epic Records , Pop  , Rap  , R&B  ","The Product G&B, Carlos Santana, Jerry Duplessis & 5 more","Wild Thoughts Lyrics
+17,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts,18,16-Jun-17," Cloud , Roc Nation , Soul , Epic Records , Pop  , Rap  , R&B  ","The Product G&B, Carlos Santana, Jerry Duplessis, Wyclef Jean, PARTYNEXTDOOR, Bryson Tiller, Rihanna & DJ Khaled","Wild Thoughts Lyrics
 
 
 
@@ -1802,7 +1802,7 @@ When I'm with you, all I get is wild thoughts
 
 
 "
-18,"Rae Sremmurd, Gucci Mane",Black Beatles,19,"August 12, 2016"," Interscope Records , Memes , Producer  , Trap , Atlanta , Rap  ","Mike WiLL Made-It, Gucci Mane, Slim Jxmmi & 1 more","Black Beatles Lyrics
+18,"Rae Sremmurd, Gucci Mane",Black Beatles,19,12-Aug-16," Interscope Records , Memes , Producer  , Trap , Atlanta , Rap  ","Mike WiLL Made-It, Gucci Mane, Slim Jxmmi & Swae Lee","Black Beatles Lyrics
 
 
 
@@ -1900,7 +1900,7 @@ They lose it when the DJ drops the needle
 
 
 "
-19,"The Weeknd, Daft Punk",Starboy,20,"September 22, 2016"," House , R&B  , Electro-Pop , XO , Pop  ","Guy-Manuel de Homem-Christo, Thomas Bangalter, DaHeala & 3 more","Starboy Lyrics
+19,"The Weeknd, Daft Punk",Starboy,20,22-Sep-16," House , R&B  , Electro-Pop , XO , Pop  ","Guy-Manuel de Homem-Christo, Thomas Bangalter, DaHeala, The Weeknd, Doc McKinney & Cirkut","Starboy Lyrics
 
 
 
@@ -1990,7 +1990,7 @@ I'm a motherfuckin' starboy
 
 
 "
-20,Khalid,Location,21,"April 30, 2016"," RCA , R&B  ","Smash David, Alfredo Gonzalez, Taz Taylor & 3 more","Location Lyrics
+20,Khalid,Location,21,30-Apr-16," RCA , R&B  ","Smash David, Alfredo Gonzalez, Taz Taylor, Tunji Ige, Syk Sense & Khalid","Location Lyrics
 
 
 
@@ -2054,7 +2054,7 @@ I don't need nothing else but you
 
 
 "
-21,Charlie Puth,Attention,22,"April 21, 2017", Pop  ,Jacob Kasher & Charlie Puth,"Attention Lyrics
+21,Charlie Puth,Attention,22,21-Apr-17, Pop  ,Jacob Kasher & Charlie Puth,"Attention Lyrics
 
 
 
@@ -2142,7 +2142,7 @@ What are you doin', huh?
 
 
 "
-22,Shawn Mendes,There's Nothing Holdin' Me Back,23,"April 20, 2017"," Latin Pop , Dance , Alternative Pop , Pop-Rock ,  Canada , Pop  ","Geoff Warburton, Scott Harris, Teddy Geiger & 1 more","There's Nothing Holdin' Me Back Lyrics
+22,Shawn Mendes,There's Nothing Holdin' Me Back,23,20-Apr-17," Latin Pop , Dance , Alternative Pop , Pop-Rock ,  Canada , Pop  ","Geoff Warburton, Scott Harris, Teddy Geiger & Shawn Mendes","There's Nothing Holdin' Me Back Lyrics
 
 
 
@@ -2215,7 +2215,7 @@ Baby, there's nothing holding me back
 
 
 "
-23,Cardi B,Bodak Yellow,24,"June 16, 2017"," New York , Bronx , Atlantic Records , Trap , Rap  ","Jordan Thorpe, Laquan Green, Kodak Black & 3 more","Bodak Yellow Lyrics
+23,Cardi B,Bodak Yellow,24,16-Jun-17," New York , Bronx , Atlantic Records , Trap , Rap  ","Jordan Thorpe, Laquan Green, Kodak Black, Klenord Raphael, J. White Did It & Cardi B","Bodak Yellow Lyrics
 
 
 
@@ -2293,7 +2293,7 @@ I'm a boss, you a worker, bitch, I make bloody moves
 
 
 "
-24,Childish Gambino,Redbone,25,"November 17, 2016"," Adult Alternative , Pop  , Soul Pop , Neo Soul , Memes , Neo-Psychedelia , Soul , R&B  ",Childish Gambino,"Redbone Lyrics
+24,Childish Gambino,Redbone,25,17-Nov-16," Adult Alternative , Pop  , Soul Pop , Neo Soul , Memes , Neo-Psychedelia , Soul , R&B  ",Childish Gambino,"Redbone Lyrics
 
 
 
@@ -2368,7 +2368,7 @@ But stay woke
 
 
 "
-25,"Zayn, Taylor Swift",I Don't Wanna Live Forever,26,"December 9, 2016"," R&B  , Screen  , Soundtrack , Pop  ","ZAYN, Sam Dew, Taylor Swift & 1 more","I Don't Wanna Live Forever Lyrics
+25,"Zayn, Taylor Swift",I Don't Wanna Live Forever,26,9-Dec-16," R&B  , Screen  , Soundtrack , Pop  ","ZAYN, Sam Dew, Taylor Swift & Jack Antonoff","I Don't Wanna Live Forever Lyrics
 
 
 
@@ -2433,7 +2433,7 @@ Until you come back home
 
 
 "
-26,"Kygo, Selena Gomez",It Ain't Me,27,"February 16, 2017"," Electro-Pop , Tropical House , Electronic , Dance-Pop , Dance , Pop  ","Brian Dong Ho Lee, ?watt, Kygo & 2 more","It Ain't Me Lyrics
+26,"Kygo, Selena Gomez",It Ain't Me,27,16-Feb-17," Electro-Pop , Tropical House , Electronic , Dance-Pop , Dance , Pop  ","Brian Dong Ho Lee, ?watt, Kygo, Ali Tamposi & Selena Gomez","It Ain't Me Lyrics
 
 
 
@@ -2511,7 +2511,7 @@ The Bowery, whiskey neat, grateful, I'm so grateful
 
 
 "
-27,"KYLE, Lil Yachty",iSpy,28,"December 1, 2016"," Quality Control Music , Atlantic Records , Pop  , Trap , Atlanta , Rap  ","Lege Kale, SuperDuperBrick, Joshua Portillo & 2 more","iSpy Lyrics
+27,"KYLE, Lil Yachty",iSpy,28,1-Dec-16," Quality Control Music , Atlantic Records , Pop  , Trap , Atlanta , Rap  ","Lege Kale, SuperDuperBrick, Joshua Portillo, Lil Yachty & KYLE","iSpy Lyrics
 
 
 
@@ -2614,7 +2614,7 @@ Oh I...
 
 
 "
-28,Julia Michaels,Issues,29,"January 13, 2017", Pop  ,"Julia Michaels, Justin Tranter, ?benny blanco & 1 more","Issues Lyrics
+28,Julia Michaels,Issues,29,13-Jan-17, Pop  ,"Julia Michaels, Justin Tranter, ?benny blanco & Stargate","Issues Lyrics
 
 
 
@@ -2703,7 +2703,7 @@ And one of them is how bad I need you
 
 
 "
-29,Alessia Cara,Scars To Your Beautiful,30,"November 13, 2015"," EP Entertainment , Def Jam , Pop  ","Alessia Cara, Coleridge Tillman & Pop & Oak","Scars to Your Beautiful Lyrics
+29,Alessia Cara,Scars To Your Beautiful,30,13-Nov-15," EP Entertainment , Def Jam , Pop  ","Alessia Cara, Coleridge Tillman & Pop & Oak","Scars to Your Beautiful Lyrics
 
 
 
@@ -2771,7 +2771,7 @@ No scars to your beautiful, we're stars and we're beautiful
 
 
 "
-30,"Logic, Alessia Cara, Khalid",1-800-273-8255,31,"April 28, 2017"," Pop  , DMV , Def Jam , VMG , Rap  ","Andrew Taggart, 6ix, Alessia Cara & 2 more","1-800-273-8255 Lyrics
+30,"Logic, Alessia Cara, Khalid",1-800-273-8255,31,28-Apr-17," Pop  , DMV , Def Jam , VMG , Rap  ","Andrew Taggart, 6ix, Alessia Cara, Logic & Khalid","1-800-273-8255 Lyrics
 
 
 
@@ -2887,7 +2887,7 @@ I don't even wanna die anymore
 
 
 "
-31,Niall Horan,Slow Hands,32,"May 4, 2017"," Ireland , Pop  ","John Ryan, Tobias Jesso Jr., Niall Horan & 3 more","Slow Hands Lyrics
+31,Niall Horan,Slow Hands,32,4-May-17," Ireland , Pop  ","John Ryan, Tobias Jesso Jr., Niall Horan, Julian Bunetta, RuthAnne & Alexander Izquierdo","Slow Hands Lyrics
 
 
 
@@ -2958,7 +2958,7 @@ Woo, slow hands
 
 
 "
-32,Rihanna,Love On The Brain,33,"January 28, 2016"," Roc Nation , Pop  , R&B  ","Fred Ball, Rihanna, Kenan Williams & 1 more","Love on the Brain Lyrics
+32,Rihanna,Love On The Brain,33,28-Jan-16," Roc Nation , Pop  , R&B  ","Fred Ball, Rihanna, Kenan Williams & Joseph Angel","Love on the Brain Lyrics
 
 
 
@@ -3032,7 +3032,7 @@ Must be love on the.... brain
 
 
 "
-33,"The Weeknd, Daft Punk",I Feel It Coming,34,"November 18, 2016"," House , R&B  , Electro-Pop , XO , Pop  ","The Weeknd, Eric Chedeville, Guy-Manuel de Homem-Christo & 3 more","I Feel It Coming Lyrics
+33,"The Weeknd, Daft Punk",I Feel It Coming,34,18-Nov-16," House , R&B  , Electro-Pop , XO , Pop  ","The Weeknd, Eric Chedeville, Guy-Manuel de Homem-Christo, Thomas Bangalter, Doc McKinney & Cirkut","I Feel It Coming Lyrics
 
 
 
@@ -3124,7 +3124,7 @@ I feel it coming, babe
 
 
 "
-34,Big Sean -,Bounce Back,35,"October 31, 2016"," Trap , Detroit , Def Jam , G.O.O.D. Music , Rap  ","Smash David, Kanye West, Jeremih & 4 more","Bounce Back Lyrics
+34,Big Sean -,Bounce Back,35,31-Oct-16," Trap , Detroit , Def Jam , G.O.O.D. Music , Rap  ","Smash David, Kanye West, Jeremih & 4 more","Bounce Back Lyrics
 
 
 
@@ -3234,7 +3234,7 @@ Don
 
 
 "
-35,"Liam Payne, Quavo",Strip That Down,36,"May 19, 2017"," Rap  ,  UK , Pop  ","Papa Dee Allen, Rikrok, Howard Scott & 12 more","Strip That Down Lyrics
+35,"Liam Payne, Quavo",Strip That Down,36,19-May-17," Rap  ,  UK , Pop  ","Papa Dee Allen, Rikrok, Howard Scott & 12 more","Strip That Down Lyrics
 
 
 
@@ -3350,7 +3350,7 @@ You're the one, girl, c'mon, strip that down for me
 
 
 "
-36,Drake,Fake Love,37,"October 23, 2016"," Trap , Toronto , R&B  ,  Canada , OVO , Rap  ","Starrah, Frank Dukes, Vinylz & 1 more","Fake Love Lyrics
+36,Drake,Fake Love,37,23-Oct-16," Trap , Toronto , R&B  ,  Canada , OVO , Rap  ","Starrah, Frank Dukes, Vinylz & 1 more","Fake Love Lyrics
 
 
 
@@ -3435,7 +3435,7 @@ So watch how you speak on my name, you know?
 
 
 "
-37,"Maroon 5, Kendrick Lamar",Don't Wanna Know,38,"October 12, 2016"," Interscope Records , TDE , Rap  , Pop  ","Alex Ben-Abdullah, Jon Mills, Kurtis McKenzie & 5 more","Don't Wanna Know Lyrics
+37,"Maroon 5, Kendrick Lamar",Don't Wanna Know,38,12-Oct-16," Interscope Records , TDE , Rap  , Pop  ","Alex Ben-Abdullah, Jon Mills, Kurtis McKenzie & 5 more","Don't Wanna Know Lyrics
 
 
 
@@ -3543,7 +3543,7 @@ Uh oh, uh oh
 
 
 "
-38,Taylor Swift,Look What You Made Me Do,39,"August 25, 2017"," Big Machine Records , Beef , Dance-Pop , Alternative Pop , Electro-Pop , Pop  ","Taylor Swift, Jack Antonoff, Richard Fairbrass & 2 more","Look What You Made Me Do Lyrics
+38,Taylor Swift,Look What You Made Me Do,39,25-Aug-17," Big Machine Records , Beef , Dance-Pop , Alternative Pop , Electro-Pop , Pop  ","Taylor Swift, Jack Antonoff, Richard Fairbrass & 2 more","Look What You Made Me Do Lyrics
 
 
 
@@ -3640,7 +3640,7 @@ Look what you just made me do
 
 
 "
-39,Ed Sheeran,Castle On The Hill,40,"January 6, 2017"," Adult Alternative , Adult Contemporary , Pop-Rock , Folk Rock , Folk ,  UK , Pop  ",?benny blanco & Ed Sheeran,"Castle on the Hill Lyrics
+39,Ed Sheeran,Castle On The Hill,40,6-Jan-17," Adult Alternative , Adult Contemporary , Pop-Rock , Folk Rock , Folk ,  UK , Pop  ",?benny blanco & Ed Sheeran,"Castle on the Hill Lyrics
 
 
 
@@ -3707,7 +3707,7 @@ Over the castle on the hill
 
 
 "
-40,"Machine Gun Kelly, Camila Cabello",Bad Things,41,"October 14, 2016"," Rap  , Pop  ","Madison Love, Alex Schwartz, Joe Khajadourian & 4 more","Bad Things Lyrics
+40,"Machine Gun Kelly, Camila Cabello",Bad Things,41,14-Oct-16," Rap  , Pop  ","Madison Love, Alex Schwartz, Joe Khajadourian & 4 more","Bad Things Lyrics
 
 
 
@@ -3833,7 +3833,7 @@ What can I say, it's complicated
 
 
 "
-41,The Chainsmokers,Paris,42,"January 13, 2017"," Dance , Electronic , Pop  ","Fredrik Häggstam, Kris Eriksson & Andrew Taggart","Paris Lyrics
+41,The Chainsmokers,Paris,42,13-Jan-17," Dance , Electronic , Pop  ","Fredrik Häggstam, Kris Eriksson & Andrew Taggart","Paris Lyrics
 
 
 
@@ -3922,7 +3922,7 @@ Let's show them we are better
 
 
 "
-42,"Ariana Grande, Nicki Minaj",Side To Side,43,"May 20, 2016"," Florida , Trap , Republic Records , Reggae , Rap  , Pop  ","Ilya Salmanzadeh, Savan Kotecha, Alexander Kronlund & 3 more","Side to Side Lyrics
+42,"Ariana Grande, Nicki Minaj",Side To Side,43,20-May-16," Florida , Trap , Republic Records , Reggae , Rap  , Pop  ","Ilya Salmanzadeh, Savan Kotecha, Alexander Kronlund & 3 more","Side to Side Lyrics
 
 
 
@@ -4016,7 +4016,7 @@ If you wanna Minaj, I got a tricycle
 
 
 "
-43,"Clean Bandit, Sean Paul, Anne-Marie",Rockabye,44,"October 21, 2016"," Tropical House , Electronic , Pop  ","Sean Paul, Steve Mac, Ina Wroldsen & 2 more","Rockabye Lyrics
+43,"Clean Bandit, Sean Paul, Anne-Marie",Rockabye,44,21-Oct-16," Tropical House , Electronic , Pop  ","Sean Paul, Steve Mac, Ina Wroldsen & 2 more","Rockabye Lyrics
 
 
 
@@ -4152,7 +4152,7 @@ Angels surround you, just dry your eye
 
 
 "
-44,Portugal. The Man,Feel It Still,45,"March 2, 2017"," Adult Contemporary , Alternative Dance , Electronic Rock , Adult Alternative , Pop  , Pop-Rock , Funk Rock , Electronic , Indie Rock , Alternative Pop , Alternative Rock , Indie Pop , Rock  ","Asa Taccone, Jason Sechrist, Kyle O'Quin & 7 more","Feel It Still Lyrics
+44,Portugal. The Man,Feel It Still,45,2-Mar-17," Adult Contemporary , Alternative Dance , Electronic Rock , Adult Alternative , Pop  , Pop-Rock , Funk Rock , Electronic , Indie Rock , Alternative Pop , Alternative Rock , Indie Pop , Rock  ","Asa Taccone, Jason Sechrist, Kyle O'Quin & 7 more","Feel It Still Lyrics
 
 
 
@@ -4222,7 +4222,7 @@ Might've had your fill, but I feel it still
 
 
 "
-45,"DJ Snake, Justin Bieber",Let Me Love You,46,"August 4, 2016"," Electro-Pop , Tropical House ,  Canada , Electronic , Pop  ","Edwin Perez, Teddy Mendez, Steve Marsden & 9 more","Let Me Love You Lyrics
+45,"DJ Snake, Justin Bieber",Let Me Love You,46,4-Aug-16," Electro-Pop , Tropical House ,  Canada , Electronic , Pop  ","Edwin Perez, Teddy Mendez, Steve Marsden & 9 more","Let Me Love You Lyrics
 
 
 
@@ -4299,7 +4299,7 @@ Oh baby, baby
 
 
 "
-46,Demi Lovato,Sorry Not Sorry,47,"July 11, 2017"," R&B  , Pop  ","Oak, Zaire Koalo, Trevor Brown & 2 more","Sorry Not Sorry Lyrics
+46,Demi Lovato,Sorry Not Sorry,47,11-Jul-17," R&B  , Pop  ","Oak, Zaire Koalo, Trevor Brown & 2 more","Sorry Not Sorry Lyrics
 
 
 
@@ -4392,7 +4392,7 @@ I'm the baddest, I'm the baddest
 
 
 "
-47,21 Savage,Bank Account,48,"July 7, 2017"," Memes , Epic Records , Trap , Rap  ",Metro Boomin & 21 Savage,"Bank Account Lyrics
+47,21 Savage,Bank Account,48,7-Jul-17," Memes , Epic Records , Trap , Rap  ",Metro Boomin & 21 Savage,"Bank Account Lyrics
 
 
 
@@ -4495,7 +4495,7 @@ The streets raised me, I'm a whole bastard
 
 
 "
-48,Justin Timberlake,Can't Stop The Feeling!,49,"May 6, 2016"," Screen  , Pop  , R&B  ","Shellback, Justin Timberlake & Max Martin","CAN'T STOP THE FEELING! Lyrics
+48,Justin Timberlake,Can't Stop The Feeling!,49,6-May-16," Screen  , Pop  , R&B  ","Shellback, Justin Timberlake & Max Martin","CAN'T STOP THE FEELING! Lyrics
 
 
 
@@ -4600,7 +4600,7 @@ Got this feeling in my body, come on
 
 
 "
-49,"J Balvin, Willy William, Beyonce",Mi Gente,50,"September 28, 2017"," Dancehall , Latin Music , En Español , Pop  ","Mohombi, Sky Rompiendo El Bajo, Ashadally Adam & 5 more","Mi Gente (Beyoncé Remix) Lyrics
+49,"J Balvin, Willy William, Beyonce",Mi Gente,50,28-Sep-17," Dancehall , Latin Music , En Español , Pop  ","Mohombi, Sky Rompiendo El Bajo, Ashadally Adam & 5 more","Mi Gente (Beyoncé Remix) Lyrics
 
 
 
@@ -4698,7 +4698,7 @@ Uh huh, Uh huh
 
 
 "
-50,Imagine Dragons,Thunder,51,"April 27, 2017"," Adult Alternative , Electronic Rock , Electro-Pop , Alternative Dance , Dance-Pop , Indie Rock , Alternative Pop , Alternative , Pop  , Pop-Rock , Alternative Rock , Rock  ","Jayson DeZuzio, Alex da Kid, Wayne Sermon & 3 more","Thunder Lyrics
+50,Imagine Dragons,Thunder,51,27-Apr-17," Adult Alternative , Electronic Rock , Electro-Pop , Alternative Dance , Dance-Pop , Indie Rock , Alternative Pop , Alternative , Pop  , Pop-Rock , Alternative Rock , Rock  ","Jayson DeZuzio, Alex da Kid, Wayne Sermon & 3 more","Thunder Lyrics
 
 
 
@@ -4755,7 +4755,7 @@ Lightning then the thunder, thunder
 
 
 "
-51,Migos,T-Shirt,52,"January 6, 2017"," Southern , Quality Control Music , 300 Entertainment , Trap , Atlanta , Rap  ","Nard & B, XL, Offset & 2 more","T-Shirt Lyrics
+51,Migos,T-Shirt,52,6-Jan-17," Southern , Quality Control Music , 300 Entertainment , Trap , Atlanta , Rap  ","Nard & B, XL, Offset & 2 more","T-Shirt Lyrics
 
 
 
@@ -4850,7 +4850,7 @@ Mama told you, mama told you
 
 
 "
-52,"Yo Gotti, Nicki Minaj",Rake It Up,53,"June 2, 2017"," Trap , Young Money , YMCMB , Rap  ","30 Roc, Too $hort, Yo Gotti & 2 more","Rake It Up Lyrics
+52,"Yo Gotti, Nicki Minaj",Rake It Up,53,2-Jun-17," Trap , Young Money , YMCMB , Rap  ","30 Roc, Too $hort, Yo Gotti & 2 more","Rake It Up Lyrics
 
 
 
@@ -4977,7 +4977,7 @@ Rake it up, rake it up (rake it up)
 
 
 "
-53,Shawn Mendes,Mercy,54,"August 18, 2016","  Canada , Pop  ","Ilsey Juber, Teddy Geiger, Danny Parker & 1 more","Mercy Lyrics
+53,Shawn Mendes,Mercy,54,18-Aug-16,"  Canada , Pop  ","Ilsey Juber, Teddy Geiger, Danny Parker & 1 more","Mercy Lyrics
 
 
 
@@ -5049,7 +5049,7 @@ Ooh, I'm begging you, I'm begging you
 
 
 "
-54,Kodak Black,Tunnel Vision,55,"February 16, 2017"," Trap , Rap  ","Tim Gomringer, Kevin Gomringer, Metro Boomin & 2 more","Tunnel Vision Lyrics
+54,Kodak Black,Tunnel Vision,55,16-Feb-17," Trap , Rap  ","Tim Gomringer, Kevin Gomringer, Metro Boomin & 2 more","Tunnel Vision Lyrics
 
 
 
@@ -5140,7 +5140,7 @@ And I ain't tryna miss out on these millions
 
 
 "
-55,"Post Malone, 21 Savage",Rockstar,56,"September 15, 2017"," Universal , Universal Republic Records , Epic Records , Atlanta , Republic Records , Trap , Rap  ","Tank God, Carl Austin Rosen, Joey Bada$$ & 3 more","rockstar Lyrics
+55,"Post Malone, 21 Savage",Rockstar,56,15-Sep-17," Universal , Universal Republic Records , Epic Records , Atlanta , Republic Records , Trap , Rap  ","Tank God, Carl Austin Rosen, Joey Bada$$ & 3 more","rockstar Lyrics
 
 
 
@@ -5226,7 +5226,7 @@ Feel just like a...
 
 
 "
-56,Brett Young,In Case You Didn't Know,57,"February 12, 2016", Country  ,"Kyle Schlienger, Tyler Reeve, Trent Tomlinson & 1 more","In Case You Didn't Know Lyrics
+56,Brett Young,In Case You Didn't Know,57,12-Feb-16, Country  ,"Kyle Schlienger, Tyler Reeve, Trent Tomlinson & 1 more","In Case You Didn't Know Lyrics
 
 
 
@@ -5294,7 +5294,7 @@ In case you didn't know
 
 
 "
-57,twenty one pilots,Heathens,58,"June 16, 2016"," Electronic Rock , Movie , Alternative Rock , Indie Rap , Rap  , Pop  , Electro-Pop , Soundtrack , Screen  ",Tyler Joseph,"Heathens Lyrics
+57,twenty one pilots,Heathens,58,16-Jun-16," Electronic Rock , Movie , Alternative Rock , Indie Rap , Rap  , Pop  , Electro-Pop , Soundtrack , Screen  ",Tyler Joseph,"Heathens Lyrics
 
 
 
@@ -5358,7 +5358,7 @@ It looks like you might be one of us
 
 
 "
-58,Halsey,Now Or Never,59,"April 4, 2017"," Pop  , R&B  , Electronic ","Happy Perez, Starrah, Cashmere Cat & 2 more","Now or Never Lyrics
+58,Halsey,Now Or Never,59,4-Apr-17," Pop  , R&B  , Electronic ","Happy Perez, Starrah, Cashmere Cat & 2 more","Now or Never Lyrics
 
 
 
@@ -5446,7 +5446,7 @@ Now or never
 
 
 "
-59,Amine,Caroline,60,"March 9, 2016", Rap  ,Pasqué & Aminé,"Caroline Lyrics
+59,Amine,Caroline,60,9-Mar-16, Rap  ,Pasqué & Aminé,"Caroline Lyrics
 
 
 
@@ -5544,7 +5544,7 @@ Bad thang, thang, bad, bad, bad, b-b-bad
 
 
 "
-60,"Ayo, Teo",Rolex,61,"January 13, 2017"," Detroit , Memes , Dance , Rap  ","William Chavis, BL$$D, Backpack & 4 more","Rolex Lyrics
+60,"Ayo, Teo",Rolex,61,13-Jan-17," Detroit , Memes , Dance , Rap  ","William Chavis, BL$$D, Backpack & 4 more","Rolex Lyrics
 
 
 
@@ -5634,7 +5634,7 @@ I just want a Rollie
 
 
 "
-61,Kendrick Lamar,DNA.,62,"April 14, 2017"," Trap , Compton , West Coast , TDE , Interscope Records , Aftermath Entertainment , Rap  ",Kendrick Lamar & Mike WiLL Made-It,"DNA. Lyrics
+61,Kendrick Lamar,DNA.,62,14-Apr-17," Trap , Compton , West Coast , TDE , Interscope Records , Aftermath Entertainment , Rap  ",Kendrick Lamar & Mike WiLL Made-It,"DNA. Lyrics
 
 
 
@@ -5732,7 +5732,7 @@ Sex, money, murder—our DNA
 
 
 "
-62,"Zay Hilfigerrr, Zayion McCall",Juju On That Beat,63,"July 26, 2016"," Memes , Dance , Rap  ",Zay Hilfigerrr & Zayion McCall,"JuJu On That Beat (TZ Anthem) Lyrics
+62,"Zay Hilfigerrr, Zayion McCall",Juju On That Beat,63,26-Jul-16," Memes , Dance , Rap  ",Zay Hilfigerrr & Zayion McCall,"JuJu On That Beat (TZ Anthem) Lyrics
 
 
 
@@ -5824,7 +5824,7 @@ You your daddy's son
 
 
 "
-63,Rae Sremmurd,Swang,64,"August 12, 2016"," Trap , Rap  ",Slim Jxmmi & Swae Lee,"Swang Lyrics
+63,Rae Sremmurd,Swang,64,12-Aug-16," Trap , Rap  ",Slim Jxmmi & Swae Lee,"Swang Lyrics
 
 
 
@@ -5894,7 +5894,7 @@ When I die can't take it to the grave
 
 
 "
-64,Drake,Passionfruit,65,"March 18, 2017"," Young Money , Republic Records , Pop  , Dancehall , Tropical House , Toronto ,  Canada , OVO , R&B  ","Noah “40” Shebib, Drake & Nana Rogues","Passionfruit Lyrics
+64,Drake,Passionfruit,65,18-Mar-17," Young Money , Republic Records , Pop  , Dancehall , Tropical House , Toronto ,  Canada , OVO , R&B  ","Noah “40” Shebib, Drake & Nana Rogues","Passionfruit Lyrics
 
 
 
@@ -5948,7 +5948,7 @@ Um, trying to think of the right thing to say
 
 
 "
-65,"Kendrick Lamar, Rihanna",Loyalty.,66,"April 14, 2017"," Trap , Roc Nation , Aftermath Entertainment , Interscope Records , TDE , West Coast , Compton , Rap  ","Brody Brown, Philip Lawrence, Bruno Mars & 10 more","LOYALTY. Lyrics
+65,"Kendrick Lamar, Rihanna",Loyalty.,66,14-Apr-17," Trap , Roc Nation , Aftermath Entertainment , Interscope Records , TDE , West Coast , Compton , Rap  ","Brody Brown, Philip Lawrence, Bruno Mars & 10 more","LOYALTY. Lyrics
 
 
 
@@ -6060,7 +6060,7 @@ Lord knows I'm dyin', baby
 
 
 "
-66,Kesha,Praying,67,"July 6, 2017"," Adult Contemporary , RCA , Piano , Soul Pop , Soul , Ballad , Power Pop , Alternative Pop , Pop  ","Andrew Joslyn, Kesha, Ben Abraham & 1 more","Praying Lyrics
+66,Kesha,Praying,67,6-Jul-17," Adult Contemporary , RCA , Piano , Soul Pop , Soul , Ballad , Power Pop , Alternative Pop , Pop  ","Andrew Joslyn, Kesha, Ben Abraham & 1 more","Praying Lyrics
 
 
 
@@ -6120,7 +6120,7 @@ Falling on your knees, prayin'
 
 
 "
-67,Travis Scott,Goosebumps,68,"September 2, 2016"," Memes , Aftermath Entertainment , G.O.O.D. Music , Grand Hustle , Epic Records , Trap , TDE , Rap  ","Cardo, Kevin Gomringer, Tim Gomringer & 3 more","goosebumps Lyrics
+67,Travis Scott,Goosebumps,68,2-Sep-16," Memes , Aftermath Entertainment , G.O.O.D. Music , Grand Hustle , Epic Records , Trap , TDE , Rap  ","Cardo, Kevin Gomringer, Tim Gomringer & 3 more","goosebumps Lyrics
 
 
 
@@ -6213,7 +6213,7 @@ I get those goosebumps every time
 
 
 "
-68,"Maroon 5, Future",Cold,69,"February 14, 2017"," Rap  , Pop  ","Detail, Adam Levine, Jacob Kasher & 3 more","Cold Lyrics
+68,"Maroon 5, Future",Cold,69,14-Feb-17," Rap  , Pop  ","Detail, Adam Levine, Jacob Kasher & 3 more","Cold Lyrics
 
 
 
@@ -6329,7 +6329,7 @@ I don't understand why you're so cold
 
 
 "
-69,"D.R.A.M., Lil Yachty",Broccoli,70,"March 23, 2016"," Atlanta , Quality Control Music , Atlantic Records , Cloud Rap , Motown , Capitol Records , Trap , Weed , Rap  ","J Gramm, Rogét Chahayed, Lil Yachty & 1 more","Broccoli Lyrics
+69,"D.R.A.M., Lil Yachty",Broccoli,70,23-Mar-16," Atlanta , Quality Control Music , Atlantic Records , Cloud Rap , Motown , Capitol Records , Trap , Weed , Rap  ","J Gramm, Rogét Chahayed, Lil Yachty & 1 more","Broccoli Lyrics
 
 
 
@@ -6417,7 +6417,7 @@ I'm a dirty dog, I did it sleazily (yeah)
 
 
 "
-70,"Calvin Harris, Frank Ocean, Migos",Slide,71,"February 24, 2017"," Quality Control Music , Nu Disco , Columbia Records , Odd Future , Dance , Electronic , Atlanta , R&B  , Rap  , Pop  ","Offset, Quavo, Frank Ocean & 1 more","Slide Lyrics
+70,"Calvin Harris, Frank Ocean, Migos",Slide,71,24-Feb-17," Quality Control Music , Nu Disco , Columbia Records , Odd Future , Dance , Electronic , Atlanta , R&B  , Rap  , Pop  ","Offset, Quavo, Frank Ocean & 1 more","Slide Lyrics
 
 
 
@@ -6505,7 +6505,7 @@ I might
 
 
 "
-71,"Kane Brown, Lauren Alaina",What Ifs,72,"December 2, 2016", Country  ,"Matthew McGinn, Jordan Schmidt & Kane Brown","What Ifs Lyrics
+71,"Kane Brown, Lauren Alaina",What Ifs,72,2-Dec-16, Country  ,"Matthew McGinn, Jordan Schmidt & Kane Brown","What Ifs Lyrics
 
 
 
@@ -6569,7 +6569,7 @@ What if?
 
 
 "
-72,"Katy Perry, Skip Marley",Chained To The Rhythm,73,"February 10, 2017"," Disco , Dancehall , Pop  ","Katy Perry, Max Martin, Sia & 2 more","Chained to the Rhythm Lyrics
+72,"Katy Perry, Skip Marley",Chained To The Rhythm,73,10-Feb-17," Disco , Dancehall , Pop  ","Katy Perry, Max Martin, Sia & 2 more","Chained to the Rhythm Lyrics
 
 
 
@@ -6679,7 +6679,7 @@ It goes on, and on, and on
 
 
 "
-73,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean",Feels,74,"June 15, 2017"," G.O.O.D. Music , Columbia Records , Atlanta , Dance , Rap  , Pop  ","Starrah, Pharrell Williams, Katy Perry & 2 more","Feels Lyrics
+73,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean",Feels,74,15-Jun-17," G.O.O.D. Music , Columbia Records , Atlanta , Dance , Rap  , Pop  ","Starrah, Pharrell Williams, Katy Perry & 2 more","Feels Lyrics
 
 
 
@@ -6762,7 +6762,7 @@ Feels with me
 
 
 "
-74,Jon Bellion,All Time Low,75,"April 14, 2015"," Dance , Pop  ","Raul Cubina, Mark Williams, Travis Mendes & 1 more","All Time Low Lyrics
+74,Jon Bellion,All Time Low,75,14-Apr-15," Dance , Pop  ","Raul Cubina, Mark Williams, Travis Mendes & 1 more","All Time Low Lyrics
 
 
 
@@ -6832,7 +6832,7 @@ Low, low, low, low, low, low, low, low, low
 
 
 "
-75,Luke Combs,Hurricane,76,"June 16, 2015", Country  ,"Taylor Phillips, Thomas Archer & Luke Combs","Hurricane Lyrics
+75,Luke Combs,Hurricane,76,16-Jun-15, Country  ,"Taylor Phillips, Thomas Archer & Luke Combs","Hurricane Lyrics
 
 
 
@@ -6902,7 +6902,7 @@ You hit me like a hurricane
 
 
 "
-76,Sam Smith,Too Good At Goodbyes,77,"September 8, 2017"," Orchestral , Capitol Records , Soul , Ballad ,  UK , Pop  ","Tor Erik Hermansen, Mikkel Stoleer Eriksen, Jimmy Napes & 1 more","Too Good at Goodbyes Lyrics
+76,Sam Smith,Too Good At Goodbyes,77,8-Sep-17," Orchestral , Capitol Records , Soul , Ballad ,  UK , Pop  ","Tor Erik Hermansen, Mikkel Stoleer Eriksen, Jimmy Napes & 1 more","Too Good at Goodbyes Lyrics
 
 
 
@@ -6984,7 +6984,7 @@ I'm way too good at goodbyes
 
 
 "
-77,Khalid,Young Dumb & Broke,78,"March 3, 2017"," RCA , R&B  ","Khalid, Talay Riley & Joel Little","Young Dumb & Broke Lyrics
+77,Khalid,Young Dumb & Broke,78,3-Mar-17," RCA , R&B  ","Khalid, Talay Riley & Joel Little","Young Dumb & Broke Lyrics
 
 
 
@@ -7063,7 +7063,7 @@ Young dumb broke high school kids
 
 
 "
-78,Playboi Carti,Magnolia,79,"April 14, 2017"," Southern , Interscope Records , Trap , Atlanta , Memes , Rap  ",Pi'erre Bourne & Playboi Carti,"Magnolia Lyrics
+78,Playboi Carti,Magnolia,79,14-Apr-17," Southern , Interscope Records , Trap , Atlanta , Memes , Rap  ",Pi'erre Bourne & Playboi Carti,"Magnolia Lyrics
 
 
 
@@ -7142,7 +7142,7 @@ Bitch ass nigga, fuck that nigga man!
 
 
 "
-79,"SZA, Travis Scott",Love Galore,80,"April 27, 2017"," Houston , Grand Hustle , RCA , TDE , PBR&B , Rap  , R&B  ","Terrence Henderson, Carter Lang, Cody Fayne & 2 more","Love Galore Lyrics
+79,"SZA, Travis Scott",Love Galore,80,27-Apr-17," Houston , Grand Hustle , RCA , TDE , PBR&B , Rap  , R&B  ","Terrence Henderson, Carter Lang, Cody Fayne & 2 more","Love Galore Lyrics
 
 
 
@@ -7249,7 +7249,7 @@ They think you stupid, you know what I'm saying?
 
 
 "
-80,"A Boogie Wit da Hoodie, Kodak Black",Drowning,81,"March 10, 2017"," New York , Florida ,  Everywhere , Rap  ","Ray ""Quasi"" Nelson, Jahaan Sweet, A Boogie Wit Da Hoodie & 1 more","Drowning Lyrics
+80,"A Boogie Wit da Hoodie, Kodak Black",Drowning,81,10-Mar-17," New York , Florida ,  Everywhere , Rap  ","Ray ""Quasi"" Nelson, Jahaan Sweet, A Boogie Wit Da Hoodie & 1 more","Drowning Lyrics
 
 
 
@@ -7328,7 +7328,7 @@ I'm drownin'
 
 
 "
-81,"Hailee Steinfeld, Grey, Zedd",Starving,82,"July 15, 2016"," Dance , Electronic , Pop  ","Asia Whiteacre, Michael Trewartha, Kyle Trewartha & 2 more","Starving Lyrics
+81,"Hailee Steinfeld, Grey, Zedd",Starving,82,15-Jul-16," Dance , Electronic , Pop  ","Asia Whiteacre, Michael Trewartha, Kyle Trewartha & 2 more","Starving Lyrics
 
 
 
@@ -7380,7 +7380,7 @@ I was so much younger yesterday
 
 
 "
-82,"Gucci Mane, Drake",Both,83,"December 15, 2016"," Trap , OVO ,  Canada , Atlanta , Rap  ",Gucci Mane & Drake,"Both Lyrics
+82,"Gucci Mane, Drake",Both,83,15-Dec-16," Trap , OVO ,  Canada , Atlanta , Rap  ",Gucci Mane & Drake,"Both Lyrics
 
 
 
@@ -7444,7 +7444,7 @@ Southside
 
 
 "
-83,P!nk,What About Us,84,"August 10, 2017"," Electro-Pop , Pop  ","Steve Mac, P!nk & Johnny McDaid","What About Us? Lyrics
+83,P!nk,What About Us,84,10-Aug-17," Electro-Pop , Pop  ","Steve Mac, P!nk & Johnny McDaid","What About Us? Lyrics
 
 
 
@@ -7520,7 +7520,7 @@ What about us?
 
 
 "
-84,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla,85,"February 24, 2017"," Dance , Rap  , Pop  ","Jason Derulo, Nicki Minaj, Ty Dolla $ign & 5 more","Swalla Lyrics
+84,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla,85,24-Feb-17," Dance , Rap  , Pop  ","Jason Derulo, Nicki Minaj, Ty Dolla $ign & 5 more","Swalla Lyrics
 
 
 
@@ -7626,7 +7626,7 @@ Derulo
 
 
 "
-85,"Migos, Gucci Mane",Slippery,86,"January 27, 2017"," Quality Control Music , Warner Bros. , Memes , Atlantic Records , 300 Entertainment , Atlanta , Rap  ","Deko, OG Parker, Gucci Mane & 3 more","Slippery Lyrics
+85,"Migos, Gucci Mane",Slippery,86,27-Jan-17," Quality Control Music , Warner Bros. , Memes , Atlantic Records , 300 Entertainment , Atlanta , Rap  ","Deko, OG Parker, Gucci Mane & 3 more","Slippery Lyrics
 
 
 
@@ -7754,7 +7754,7 @@ You can bet on me (skr, skr, hey, hey, hey)
 
 
 "
-86,Harry Styles,Sign Of The Times,87,"April 7, 2017"," Ballad , Piano , Alternative Pop , Pop-Rock ,  UK , Pop  ","Tyler Johnson, Alex Salibian, Ryan Nasci & 3 more","Sign of the Times Lyrics
+86,Harry Styles,Sign Of The Times,87,7-Apr-17," Ballad , Piano , Alternative Pop , Pop-Rock ,  UK , Pop  ","Tyler Johnson, Alex Salibian, Ryan Nasci & 3 more","Sign of the Times Lyrics
 
 
 
@@ -7833,7 +7833,7 @@ We got to, we got to, away
 
 
 "
-87,Adele,Water Under The Bridge,88,"November 4, 2016","  UK , Pop  ",Greg Kurstin & Adele,"Water Under the Bridge Lyrics
+87,Adele,Water Under The Bridge,88,4-Nov-16,"  UK , Pop  ",Greg Kurstin & Adele,"Water Under the Bridge Lyrics
 
 
 
@@ -7906,7 +7906,7 @@ Say that our love ain't water under the bridge
 
 
 "
-88,Miley Cyrus,Malibu,89,"May 11, 2017"," Pop-Rock , Pop  ",Oren Yoel & Miley Cyrus,"Malibu Lyrics
+88,Miley Cyrus,Malibu,89,11-May-17," Pop-Rock , Pop  ",Oren Yoel & Miley Cyrus,"Malibu Lyrics
 
 
 
@@ -7958,7 +7958,7 @@ A dream come true in Malibu
 
 
 "
-89,Marian Hill,Down,90,"March 4, 2016"," Electronic , Electro-Pop , Pop  ",Jeremy Lloyd & Samantha Gongol,"Down Lyrics
+89,Marian Hill,Down,90,4-Mar-16," Electronic , Electro-Pop , Pop  ",Jeremy Lloyd & Samantha Gongol,"Down Lyrics
 
 
 
@@ -8027,7 +8027,7 @@ Down, down, d-d-down, down, d-down, down?
 
 
 "
-90,"Cheat Codes, Demi Lovato",No Promises,91,"March 31, 2017"," Dance , Pop  ","Lauv, Emma Block, Jackson Foote & 2 more","No Promises Lyrics
+90,"Cheat Codes, Demi Lovato",No Promises,91,31-Mar-17," Dance , Pop  ","Lauv, Emma Block, Jackson Foote & 2 more","No Promises Lyrics
 
 
 
@@ -8102,7 +8102,7 @@ Promise me no promises
 
 
 "
-91,Shawn Mendes,Treat You Better,92,"June 3, 2016","  Canada , Pop  ","Scott Harris, Teddy Geiger & Shawn Mendes","Treat You Better Lyrics
+91,Shawn Mendes,Treat You Better,92,3-Jun-16,"  Canada , Pop  ","Scott Harris, Teddy Geiger & Shawn Mendes","Treat You Better Lyrics
 
 
 
@@ -8166,7 +8166,7 @@ Better than he can
 
 
 "
-92,"Gucci Mane, Migos",I Get The Bag,93,"August 18, 2017"," Quality Control Music , Atlantic Records , Atlanta , Trap , Rap  ","Metro Boomin, Southside, Quavo & 2 more","I Get the Bag Lyrics
+92,"Gucci Mane, Migos",I Get The Bag,93,18-Aug-17," Quality Control Music , Atlantic Records , Atlanta , Trap , Rap  ","Metro Boomin, Southside, Quavo & 2 more","I Get the Bag Lyrics
 
 
 
@@ -8295,7 +8295,7 @@ They say the dope on fleek (yep)
 
 
 "
-93,Dustin Lynch,Small Town Boy,94,"February 17, 2017", Country  ,"Ben Hayslip, Kyle Fishman & Rhett Akins","Small Town Boy Lyrics
+93,Dustin Lynch,Small Town Boy,94,17-Feb-17, Country  ,"Ben Hayslip, Kyle Fishman & Rhett Akins","Small Town Boy Lyrics
 
 
 
@@ -8374,7 +8374,7 @@ Yeah, she loves a small town boy like me
 
 
 "
-94,"YFN Lucci, PnB Rock",Everyday We Lit,95,"December 15, 2016","  Everywhere , Atlanta , Trap , Rap  ",PnB Rock & YFN Lucci,"Everyday We Lit Lyrics
+94,"YFN Lucci, PnB Rock",Everyday We Lit,95,15-Dec-16,"  Everywhere , Atlanta , Trap , Rap  ",PnB Rock & YFN Lucci,"Everyday We Lit Lyrics
 
 
 
@@ -8453,7 +8453,7 @@ Everyday we lit uh
 
 
 "
-95,"Camila Cabello, Young Thug",Havana,96,"August 3, 2017"," Atlanta , R&B  , Cuba , Epic Records , 300 Entertainment , Latin Music , Trap , YSL , Rap  , Latin Pop , Pop  ","Kaan Gunesberk, Louis Bell, Frank Dukes & 7 more","Havana Lyrics
+95,"Camila Cabello, Young Thug",Havana,96,3-Aug-17," Atlanta , R&B  , Cuba , Epic Records , 300 Entertainment , Latin Music , Trap , YSL , Rap  , Latin Pop , Pop  ","Kaan Gunesberk, Louis Bell, Frank Dukes & 7 more","Havana Lyrics
 
 
 
@@ -8549,7 +8549,7 @@ Havana, ooh na-na
 
 
 "
-96,"Maroon 5, SZA",What Lovers Do,97,"August 30, 2017"," Universal , RCA , Interscope Records , TDE , Pop  ","Oladayo Olatunji, NEIKED, Elina Stridh & 5 more","What Lovers Do Lyrics
+96,"Maroon 5, SZA",What Lovers Do,97,30-Aug-17," Universal , RCA , Interscope Records , TDE , Pop  ","Oladayo Olatunji, NEIKED, Elina Stridh & 5 more","What Lovers Do Lyrics
 
 
 
@@ -8640,7 +8640,7 @@ Tryna' do what lovers do (ooh)
 
 
 "
-97,Blackbear,Do Re Mi,98,"March 17, 2017", R&B  ,FRND & ?blackbear,"do re mi Lyrics
+97,Blackbear,Do Re Mi,98,17-Mar-17, R&B  ,FRND & ?blackbear,"do re mi Lyrics
 
 
 
@@ -8729,7 +8729,7 @@ So send the X and O's on another note, I'm ghost
 
 
 "
-98,XXXTENTACION,Look At Me!,99,"December 30, 2015"," Emo , Florida , Trap , Rap  ",XXXTENTACION,"Look At Me! Lyrics
+98,XXXTENTACION,Look At Me!,99,30-Dec-15," Emo , Florida , Trap , Rap  ",XXXTENTACION,"Look At Me! Lyrics
 
 
 
@@ -8804,7 +8804,7 @@ Look at me, yah!
 
 
 "
-99,"Keith Urban, Carrie Underwood",The Fighter,100,"May 6, 2016", Country  ,Keith Urban & ?busbee,"The Fighter Lyrics
+99,"Keith Urban, Carrie Underwood",The Fighter,100,6-May-16, Country  ,Keith Urban & ?busbee,"The Fighter Lyrics
 
 
 
